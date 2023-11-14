@@ -25,6 +25,11 @@ git diff
 // to clear all modified things
 git checkout <file>/<folder> // eg. git checkout .
 
+// to know git log
+git log
+
+// to travel between old commit hash
+git checkout <#number>
 
 ```
 
