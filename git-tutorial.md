@@ -22,12 +22,14 @@ git status
 // to know difference 
 git diff 
 
-kichu likhlam
+// to clear all modified things
+git checkout <file>/<folder> // eg. git checkout .
+
 
 ```
+
 
 
 ## terminology
 
 * git branch
-
