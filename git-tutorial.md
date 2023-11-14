@@ -25,6 +25,7 @@ git checkout master <travel to a master>
 
 git remote add origin <url>
 git push origin <branchName> # eg. git push origin master
+git pull origin <branchName> # to bring code into my local git eg. git pull origin master
 
 ```
 
